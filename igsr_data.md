@@ -2,7 +2,7 @@
 
 The International Genome Sample Resource (IGSR) presents all the data it has on the 1000 Genomes samples through the [1000 Genomes FTP site](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/) and the [mirror site](ftp://ftp-trace.ncbi.nih.gov/1000genomes/ftp/) hosted at the NCBI
 
-Currently this FTP site contains the three main releases of the 1000 Genomes Project. 
+Currently this FTP site contains the three main releases of the 1000 Genomes Project. If you have any questions about where to find the data please email [info@1000genomes.org](info@1000genomes.org)
 
 ##1000 Genomes Phase 3 release
 
