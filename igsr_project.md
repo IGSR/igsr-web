@@ -1,10 +1,10 @@
 #The International Genome Sample Resource Project Description
 
-The International Genome Sample Resource (IGSR) has three main aims.
+The International Genome Sample Resource (IGSR) has been created to support and expand the 1000 Genomes data and has three main aims.
 
 1. [Ensure the future usability of the 1000 Genomes reference data;](#Ensuring the future usability of the 1000 Genomes reference data)
 2. [Incorporate published genomic data on the 1000 Genomes samples;](#Incorporate published genomic data on the 1000 Genomes samples)
-3. [Expand the data collection to include new populations.](#Expand the data collection to include new populations)
+3. [Expand the 1000 Genomes data collection to include new populations.](#Expand the data collection to include new populations)
 
 Here we describe our plan to achieve these aims.
 
@@ -12,7 +12,7 @@ Here we describe our plan to achieve these aims.
 
 In 2014, the [Genome Reference Consortium](http://www.ncbi.nlm.nih.gov/projects/genome/assembly/grc/) released an update of the human assembly, GRCh38. This update to the human reference assembly shows a significant improvement the quantity of alternative loci represented. It now contains 178 genomc regions with associated alt loci (2% of chromosome sequence (61.9 Mb)). This is made up from 261 alt loci (containing 3.6 Mb novel sequence relative to chromosomes). The GRC were also able to resolve more than 1000 issues from the previous version of the assembly.
 
-Taking advantage of this alternative loci sequence when identifying variation and calling genotypes is an important step in improving our ability to discover human variation. Currently very few tools can use the alt loc data. IGSR plans to remap the [phase 3 1000 Genomes data](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/) to GRCh38 in an alt aware manner using the newest version of [BWA Mem](http://bio-bwa.sourceforge.net/). This will provide the method development community with a source of alignments that can drive these new methods forward and as well as providing the wider community with upto date alignments ensuring everyone can benefit from the data in the context of the new assembly.
+Taking advantage of this alternative loci sequence when identifying variation and calling genotypes is an important step in improving our ability to discover human variation. Currently very few tools can use the alt loc data. IGSR plans to remap the [phase 3 1000 Genomes data](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data) to GRCh38 in an alt aware manner using the newest version of [BWA Mem](http://bio-bwa.sourceforge.net/). This will provide the method development community with a source of alignments that can drive these new methods forward and as well as providing the wider community with upto date alignments ensuring everyone can benefit from the data in the context of the new assembly.
 
 ##Incorporate published genomic data on the 1000 Genomes samples
 
