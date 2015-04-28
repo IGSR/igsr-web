@@ -8,15 +8,25 @@ Currently this FTP site contains the three main releases of the 1000 Genomes Pro
 
 The Phase 3 release contains more than 84 million variants and genotypes for 2504 individuals from 26 different populations. These files are presenting in VCF format in the [20130502 release directory](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/)
 
-The sequence and alignment data which support these results can be found under [ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3). 
+The sequence and alignment data which support these results can be found under [phase3/data](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data). 
 
 Functional annotation, genotypes for related samples, per sample depth cover and other affiliated resources can be found in the [supporting directory](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/supporting/)
 
 ##1000 Genomes Phase 1 release
 
-The Phase 1 release contains 35 millon variants and genotypes for 1092 individuals from 14 different populations. This study was published in October 2012 in Nature. 
+The Phase 1 release contains 35 millon variants and genotypes for 1092 individuals from 14 different populations. This study was published as an open access article in [October 2012 in Nature](http://www.nature.com/nature/journal/v491/n7422/full/nature11632.html).
+
+The variants and supporting information can be found in the [phase1/analysis_results directory](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase1/analysis_results/).
+
+The sequence and alignment data can be found under [phase1/data](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase1/data)
 
 ##1000 Genomes Pilot Release
+
+The Pilot release contains 14M variants and genotypes from 179 individuals and 4 populations. This study was published as an open access article in [October 2010 in Nature](http://www.nature.com/nature/journal/v467/n7319/full/nature09534.html)
+
+The variants can be found under [pilot_data/paper_data_sets](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/pilot_data/paper_data_sets/)
+
+The sequence and alignment data can be found under [pilot_data/data](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/pilot_data/paper_data_sets/)
 
 ##1000 Genomes Data Access Tools
 
