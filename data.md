@@ -41,7 +41,7 @@ The [FTP site](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/){:target="_blank"} is a
 
 ###Aspera
 
-The data is also via an Aspera server from both sites. To be able to use this service you need to download the [Aspera connect software](http://asperasoft.com/software/transfer-clients/connect-web-browser-plug-in/). This provides both a browser plug in for downloading data and a bulk download client called ascp. An example command line to get a file using ascp looks like:
+The data is also via an Aspera server from both sites. To be able to use this service you need to download the [Aspera connect software](http://asperasoft.com/software/transfer-clients/connect-web-browser-plug-in/){:target="_blank"}. This provides both a browser plug in for downloading data and a bulk download client called ascp. An example command line to get a file using ascp looks like:
 
 {% highlight bash %}
 ascp -i bin/aspera/etc/asperaweb_id_dsa.putty -Tr -Q -l 100M \
