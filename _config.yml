@@ -11,6 +11,8 @@ url: "http://www.internationalgenome.org"
 # twitter_username: jekyllrb
 # github_username:  igsr
 
+exclude: [ _readme_imgs, CONTRIBUTING.md, README.md ]
+
 # IGSR settings
 ebi_ftp: ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/
 ncbi_ftp: ftp://ftp-trace.ncbi.nih.gov/1000genomes/ftp/
