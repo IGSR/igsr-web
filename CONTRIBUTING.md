@@ -12,7 +12,7 @@ Once on the GitHub website click on the + icon and make sure you are working on 
 
 Each GitHub page in Jekyll requires a section of YAML injected at the top of each document. This is called the [http://jekyllrb.com/docs/frontmatter/](Front Matter).
 
-```
+```markdown
 ---
 layout: page
 title: This is my title
@@ -42,7 +42,7 @@ By default pages are rendered using Markdown. A lightweight markup language. You
 
 When using Markup you can inject internal links by adding the site's baseurl to ensure good links are always formed. You do this by using a filter like so
 
-```
+```markdown
 [About this site]({{ "/about" | prepend: site.baseurl }})
 ```
 
@@ -50,7 +50,8 @@ When using Markup you can inject internal links by adding the site's baseurl to 
 
 When using Markup you can inject new attributes into the target links. When creating links that move away from the main site it is recommended they start up a new browser window or tab. You do this by adding a `target=_blank` attribute by adding curly brackets and key/value attributes like so:
 
-```[Ensembl](http://ensembl.org)
+```markdown
+[Ensembl](http://ensembl.org){:target=_blank}
 ```
 
 ## Committing into GitHub
