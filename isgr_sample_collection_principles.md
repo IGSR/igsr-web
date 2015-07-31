@@ -1,6 +1,6 @@
 ---
 layout: page
-title: IGSR - Sample Collection Principles
+title: Sample Collection Principles
 permalink: /sample_collection_principles/
 order: 10
 ---
