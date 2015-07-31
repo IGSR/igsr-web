@@ -36,7 +36,7 @@ You can click on the pencil icon when on a Markdown page. This is shown below
 
 ## Writing the Page
 
-By default pages are rendered using Markdown. A lightweight markup language. You can also write content in HTML should you wish. All Jekyll pages are templates. Content can be injected into them using [pre-set lists of data](http://jekyllrb.com/docs/datafiles) and written using [filters](http://jekyllrb.com/docs/templates/). They are exceptionally configurable. [Jekyll docs](http://jekyllrb.com/docs/) are a good place to find more information.
+By default pages are rendered using Markdown. A lightweight markup language. GitHub provides some good guides on [how to write pages in Markdown](https://help.github.com/articles/markdown-basics/). You can also write content in HTML should you wish. All Jekyll pages are templates. Content can be injected into them using [pre-set lists of data](http://jekyllrb.com/docs/datafiles) and written using [filters](http://jekyllrb.com/docs/templates/). They are exceptionally configurable. [Jekyll docs](http://jekyllrb.com/docs/) are a good place to find more information.
 
 #### Inserting Internal HTML links
 
